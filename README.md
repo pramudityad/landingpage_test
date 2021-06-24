@@ -1,5 +1,8 @@
 # Frontend Developer Test
 
+landing page file
+- /node_modules/startbootstrap-landing-page/dist/index.html
+
 Please create new php page from given mockup. Just a single landing page.
 
 1. The mockup file is located on https://github.com/bylabz/frontend-test/blob/master/assets/images/mockup.png.
